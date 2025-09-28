@@ -1,0 +1,47 @@
+{
+  "notebooks_copied": 1,
+  "python_files_copied": 0,
+  "other_files_copied": 13,
+  "example_moves": [
+    [
+      "/mnt/data/_tmp_extract/2023 Small Business Profiles.csv",
+      "/mnt/data/data102-project-rebuilt/data/raw/2023 Small Business Profiles.csv"
+    ],
+    [
+      "/mnt/data/_tmp_extract/DAG.png",
+      "/mnt/data/data102-project-rebuilt/docs/DAG.png"
+    ],
+    [
+      "/mnt/data/_tmp_extract/FY2023-STC-Category-Table-Transposed.csv",
+      "/mnt/data/data102-project-rebuilt/data/raw/FY2023-STC-Category-Table-Transposed.csv"
+    ],
+    [
+      "/mnt/data/_tmp_extract/GDP_Growth.csv",
+      "/mnt/data/data102-project-rebuilt/data/raw/GDP_Growth.csv"
+    ],
+    [
+      "/mnt/data/_tmp_extract/MortgageData.csv",
+      "/mnt/data/data102-project-rebuilt/data/raw/MortgageData.csv"
+    ],
+    [
+      "/mnt/data/_tmp_extract/Populations.csv",
+      "/mnt/data/data102-project-rebuilt/data/raw/Populations.csv"
+    ],
+    [
+      "/mnt/data/_tmp_extract/Totals by State, 2023-2024.csv",
+      "/mnt/data/data102-project-rebuilt/data/raw/Totals by State, 2023-2024.csv"
+    ],
+    [
+      "/mnt/data/_tmp_extract/Unemployment in America Per US State.csv",
+      "/mnt/data/data102-project-rebuilt/data/raw/Unemployment in America Per US State.csv"
+    ],
+    [
+      "/mnt/data/_tmp_extract/counties_per_capita_income.csv",
+      "/mnt/data/data102-project-rebuilt/data/raw/counties_per_capita_income.csv"
+    ],
+    [
+      "/mnt/data/_tmp_extract/data102_final_proj.ipynb",
+      "/mnt/data/data102-project-rebuilt/notebooks/data102_final_proj.ipynb"
+    ]
+  ]
+}
